@@ -43,4 +43,10 @@ There are 4 templates included in this repo, 2 of them with [three.js](https://t
 
 Also available on editor.p5js.org: [https://editor.p5js.org/LingDong-/sketches/1viPqbRMv](https://editor.p5js.org/LingDong-/sketches/1viPqbRMv)
 
+## 4 in 1
+
+Glued together with iframes: [https://handpose-demos.glitch.me/](https://handpose-demos.glitch.me/)
+
+
+
 **Made at [the Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/) at Carnegie Mellon University.**
