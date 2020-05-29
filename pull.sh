@@ -1,3 +1,6 @@
+# pull app source codes from glitch.com
+# if you happen to be me, put the authentication token in a file called `auth`, and run `sh pull.sh`
+
 rm -rf mediapipe-hand-3js-tf174-handv1
 rm -rf networked-hand-3js-tf174-handv1
 rm -rf mediapipe-hand-p5-tf174-handv1

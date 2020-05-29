@@ -6,7 +6,9 @@ Collection of minimalistic demos/templates using [mediapipe handpose with tensor
 
 > The handpose package detects hands in an input image or video stream, and returns twenty-one 3-dimensional landmarks locating features within each hand. Such landmarks include the locations of each finger joint and the palm. -- blog.tensorflow.org
 
-There are 4 templates included in this repo, 2 of them with [three.js](https://threejs.org) and 2 with [p5.js](https://p5js.org), 2 are multiplyer via socket.io + express, and 2 are singleplayer static sites. All of them are well commented and explained for beginners.
+There are 4 templates included in this repo, 2 of them with [three.js](https://threejs.org) and 2 with [p5.js](https://p5js.org), 2 are multiplyer via socket.io + express, and 2 are singleplayer static sites. They're all well commented and explained for beginners.
+
+All demos are hosted on [glitch.com](https://glitch.com/) 🎏
 
 
 ## Online multiplayer 3D
