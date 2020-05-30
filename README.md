@@ -13,7 +13,7 @@ All demos are hosted on [glitch.com](https://glitch.com/) 🎏
 
 ## Online multiplayer 3D
 
-### [Live](https://glitch.com/edit/#!/networked-hand-3js-tf174-handv1) | [Remix](https://glitch.com/edit/#!/networked-hand-3js-tf174-handv1) | [Source](./networked-hand-3js-tf174-handv1)
+### [Live](https://networked-hand-3js-tf174-handv1.glitch.me) | [Remix](https://glitch.com/edit/#!/networked-hand-3js-tf174-handv1) | [Source](./networked-hand-3js-tf174-handv1)
 
 - tensorflow.js + mediapipe handpose
 - three.js
@@ -22,7 +22,7 @@ All demos are hosted on [glitch.com](https://glitch.com/) 🎏
 
 ## Online multiplayer 2D
 
-### [Live](https://glitch.com/edit/#!/networked-hand-p5-tf174-handv1) | [Remix](https://glitch.com/edit/#!/networked-hand-p5-tf174-handv1) | [Source](./networked-hand-p5-tf174-handv1)
+### [Live](https://networked-hand-p5-tf174-handv1.glitch.me) | [Remix](https://glitch.com/edit/#!/networked-hand-p5-tf174-handv1) | [Source](./networked-hand-p5-tf174-handv1)
 
 - tensorflow.js + mediapipe handpose
 - p5.js
@@ -31,14 +31,14 @@ All demos are hosted on [glitch.com](https://glitch.com/) 🎏
 
 ## Singleplayer 3D
 
-### [Live](https://glitch.com/edit/#!/mediapipe-hand-3js-tf174-handv1) | [Remix](https://glitch.com/edit/#!/mediapipe-hand-3js-tf174-handv1) | [Source](./mediapipe-hand-3js-tf174-handv1)
+### [Live](https://mediapipe-hand-3js-tf174-handv1.glitch.me) | [Remix](https://glitch.com/edit/#!/mediapipe-hand-3js-tf174-handv1) | [Source](./mediapipe-hand-3js-tf174-handv1)
 
 - tensorflow.js + mediapipe handpose
 - three.js
 
 ## Singleplayer 2D
 
-### [Live](https://glitch.com/edit/#!/mediapipe-hand-p5-tf174-handv1) | [Remix](https://glitch.com/edit/#!/mediapipe-hand-p5-tf174-handv1) | [Source](./mediapipe-hand-p5-tf174-handv1)
+### [Live](https://mediapipe-hand-p5-tf174-handv1.glitch.me) | [Remix](https://glitch.com/edit/#!/mediapipe-hand-p5-tf174-handv1) | [Source](./mediapipe-hand-p5-tf174-handv1)
 
 - tensorflow.js + mediapipe handpose
 - p5.js
