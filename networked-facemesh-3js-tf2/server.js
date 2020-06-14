@@ -7,7 +7,7 @@ const app = express();
 var server = app.listen(process.env.PORT || 300);
 
 // make all the files in 'public' available
-// https://expressjs.com/en/starter/static-files.html
+//// https://expressjs.com/en/starter/static-files.html
 app.use(express.static("public"));
 
 var io = require('socket.io')(server);

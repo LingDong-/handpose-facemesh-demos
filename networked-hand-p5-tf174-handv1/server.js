@@ -21,18 +21,22 @@ function newConnection(socket){
 	socket.on('client-update', onClientUpdate);
 	socket.on('disconnect', onClientExit);
 
+  // client is ready
 	function onClientStart(){
-    
-		// send an update every 10 milliseconds
-		setInterval(function(){
-			socket.emit('server-update', serverData);
-		}, 10);
-		
+    // uncomment to send an update every 10 milliseconds
+		// currently we will be sending update every time
+    // the client updates us, to avoid wasting resources
+		// setInterval(function(){
+		// 	socket.emit('server-update', serverData);
+		// }, 10);
 	}
   
   // client is sending us an update
 	function onClientUpdate(data){
     serverData[socket.id] = data;
+    
+    // we update them too
+    socket.emit('server-update', serverData);
 	}
   
   // bye bye

@@ -1,0 +1,31 @@
+<body style="margin:0px">
+      <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js" defer></script>
+</body>
+
+<script>
+var isOnHTTPS = window.location.href.startsWith("https");
+if (!isOnHTTPS){
+  window.location.href = window.location.href.replace("http","https");
+}
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core@2.0.0/dist/tf-core.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-webgl"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter@2.0.0/dist/tf-converter.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/facemesh"></script>
+
+<script src="landmarks.js"></script>
+<script src="sketch.js"></script>
+
+
+<script>
+// draw the FPS
+;;;(function(){var script=document.createElement('script');script.onload=function(){var stats=new Stats();document.body.appendChild(stats.dom);requestAnimationFrame(function loop(){stats.update();requestAnimationFrame(loop)});};script.src='//mrdoob.github.io/stats.js/build/stats.min.js';document.head.appendChild(script);})()
+</script>
