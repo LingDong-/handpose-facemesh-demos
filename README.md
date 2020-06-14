@@ -53,7 +53,7 @@ Glued together with iframes: [https://handpose-demos.glitch.me/](https://handpos
 
 # Facemesh Demos
 
-
+![](pic2.png)
 
 Collection of minimalistic demos/templates using [mediapipe facemesh with tensorflow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html). Created for and supported by [the Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/).
 
