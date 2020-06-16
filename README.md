@@ -7,7 +7,7 @@
 
 # Handpose Demos
 
-![](pic.png)
+![](images/icon-handpose.png)
 
 Collection of minimalistic demos/templates using [mediapipe handpose with tensorflow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html). Created for and supported by [the Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/).
 
@@ -60,7 +60,7 @@ Glued together with iframes: [https://handpose-demos.glitch.me/](https://handpos
 
 # Facemesh Demos
 
-![](pic2.png)
+![](images/icon-facemesh.png)
 
 Collection of minimalistic demos/templates using [mediapipe facemesh with tensorflow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html). Created for and supported by [the Frank-Ratchye STUDIO for Creative Inquiry](https://studioforcreativeinquiry.org/).
 
@@ -69,6 +69,20 @@ Collection of minimalistic demos/templates using [mediapipe facemesh with tensor
 There are 4 templates included in this repo, 2 of them with [three.js](https://threejs.org) and 2 with [p5.js](https://p5js.org), 2 are multiplyer via socket.io + express, and 2 are singleplayer static sites. They're all well commented and explained for beginners.
 
 All demos are hosted on [glitch.com](https://glitch.com/) 🎏
+
+
+## Keypoint Subsets
+
+There're 3 additional keypoint subsets available in each demo to select from, as alternatives to the facemesh 468 vertices. See image below for indices and triangulation for each of them:
+
+![](images/facemesh-subsets.png)
+
+From left to right:
+
+- Minimal 7 points
+- Important features 33 points
+- Standard facial landmark 68 points
+- Full facemesh 468 points. A larger resolution and flattened version of the illustration is available in [tfjs facemesh repo](https://github.com/tensorflow/tfjs-models/tree/master/facemesh).
 
 
 ## Online multiplayer 3D
