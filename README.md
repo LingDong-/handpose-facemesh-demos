@@ -50,7 +50,7 @@ All demos are hosted on [glitch.com](https://glitch.com/) 🎏
 - tensorflow.js + mediapipe handpose
 - p5.js
 
-Also available on editor.p5js.org: [https://editor.p5js.org/LingDong-/sketches/1viPqbRMv](https://editor.p5js.org/LingDong-/sketches/1viPqbRMv)
+Also available on editor.p5js.org: [https://editor.p5js.org/lingdong/sketches/1viPqbRMv](https://editor.p5js.org/lingdong/sketches/1viPqbRMv)
 
 ## 4 in 1
 
@@ -117,7 +117,7 @@ From left to right:
 - tensorflow.js + mediapipe facemseh
 - p5.js
 
-Also available on editor.p5js.org: [https://editor.p5js.org/LingDong-/sketches/ef6FB-uNq](https://editor.p5js.org/LingDong-/sketches/ef6FB-uNq)
+Also available on editor.p5js.org: [https://editor.p5js.org/lingdong/sketches/ef6FB-uNq](https://editor.p5js.org/lingdong/sketches/ef6FB-uNq)
 
 
 
