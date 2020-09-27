@@ -13,10 +13,10 @@
 // var VTX = VTX7;
 
 // === important facial feature 33 points ===
-var VTX = VTX33;
+// var VTX = VTX33;
 
 // === standard facial landmark 68 points ===
-// var VTX = VTX68;
+var VTX = VTX68;
 
 // === full facemesh 468 points ===
 // var VTX = VTX468;

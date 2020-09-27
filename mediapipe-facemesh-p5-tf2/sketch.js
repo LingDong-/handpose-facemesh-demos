@@ -24,7 +24,7 @@
 // var VTX = VTX68;
 
 // === full facemesh 468 points ===
-var VTX = VTX33;
+var VTX = VTX468;
 
 // select the right triangulation based on vertices
 var TRI = VTX == VTX7 ? TRI7 : (VTX == VTX33 ? TRI33 : (VTX == VTX68 ? TRI68 : TRI468))
